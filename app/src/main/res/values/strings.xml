@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Send_Receive_SMS</string>
+    <string name="enter_destination_phone_number">لطفا شماره تلفن مقصد را وارد کنید.</string>
+    <string name="send_message_is_not_granted">مجوز ارسال پیام داده نشده است.</string>
+    <string name="smessage_sent">پیامک ارسال شد.</string>
+    <string name="failed">خطا در ارسال</string>
+    <string name="show_phone_number_text">نمایش پیام و شماره تلفن دریافت شده</string>
+    <string name="message">پیام</string>
+    <string name="send_sms">ارسال پیام</string>
+
+
+</resources>
